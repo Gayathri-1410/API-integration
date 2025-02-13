@@ -26,6 +26,7 @@ API Integration: Fetch real-time cryptocurrency data (Bitcoin and Ethereum) from
 Data Processing: Clean and structure the fetched data using Python (via pandas) for easy analysis and visualization.
 Data Visualization: Create clear, informative visual representations (bar charts) comparing the prices and market caps of Bitcoin and Ethereum using Matplotlib, Seaborn, and Plotly.
 Interactivity: Provide an interactive experience for users to explore and analyze the cryptocurrency data through dynamic charts (using Plotly). Technologies Used:
+
 Python Libraries:
 
 requests:
